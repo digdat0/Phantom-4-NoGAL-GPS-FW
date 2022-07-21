@@ -5,8 +5,8 @@ Original FW = V02.00.0700_P4_dji_system.bin
 
 There are two files
 
-1.  Completely Stock parameters, AND revert back to originla GPS settings (P4 700 Stock NoGAL)
-2. Super patcher parameters, AND revert back to originla GPS settings (P4 700 UpdatedParams NoGAL), the paramters came from here: https://github.com/brett8883/Super-Firmware_Cache/tree/master/P4Standard_Super_Patcher_FC
+1.  Completely Stock parameters, AND revert back to original GPS settings (P4 700 Stock NoGAL)
+2. Super patcher parameters, AND revert back to original GPS settings (P4 700 UpdatedParams NoGAL), the paramters came from here: https://github.com/brett8883/Super-Firmware_Cache/tree/master/P4Standard_Super_Patcher_FC
 
 To install, you can use super patcher, and when dumldore prompts for a file, use the one you download here. OR, follow steps from this document: https://wiki.dji-rev.com/howto/manually_installing_custom_fw_from_fc_patcher
 
